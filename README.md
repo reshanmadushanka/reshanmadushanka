@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Laravel,Vuejs,Agile**
 
-- 📫 How to reach me **reshanmadushanka@gmail.com**
-
 - 📄 Know about my experiences [www.linkedin.com/in/reshan-wijerathna-093b79108](www.linkedin.com/in/reshan-wijerathna-093b79108)
 
 <h3 align="left">Connect with me:</h3>
